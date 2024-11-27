@@ -1,0 +1,239 @@
+{
+    "FIN": [
+        "FIN-21BPS-RecognizedIndependent501c3s",
+        "FIN-10GrantsGuidelines",
+        "FIN-01TravelPolicy",
+        "FIN-16BudgetTransfers",
+        "FIN-12TrustFundsforSchools",
+        "FIN-11Scholarships,Awards,andHonorsforStudents",
+        "FIN-20ManagingStipends",
+        "FIN-07PurchasingGuidelines",
+        "FIN-03ExpenditureReimbursement",
+        "FIN-14OverpaymentofSalaries",
+        "FIN-02bMileageReimbursement_January-June",
+        "FIN-19BPSPostage&PrintingPolicy",
+        "FIN-02aMileageReimbursement",
+        "FIN-04StudentActivityAccounts",
+        "FIN-09PrivateContributionsManagementGuidelines"
+    ],
+    "ODA": [
+        "ODA-03GuidelinesandProceduresforAccessingStudentData",
+        "ODA-02StateTestingSecurityandEthics",
+        "ODA-01ProceduresforConductingEducationalResearch",
+        "ODA-07RequiredDocumentationtoWithdrawStudents",
+        "ODA-05BPSSurveyAdministrationGuidelines",
+        "ODA-06ParticipationGuidelinesforTestingEnglishLearnersonStatewideAssessments",
+        "ODA-04BPSBalancedAssessmentSystem"
+    ],
+    "EQT": [
+        "EQT-08Expectant&ParentingStudents",
+        "EQT-07AccommodatingEmployees",
+        "EQT-10Opportunity&AchievementGapsPolicyImplementation",
+        "EQT-02Bias-BasedConductTowardStudents,Families,orOtherThirdParties",
+        "EQT-06SexualMisconductTowardEmployeesandThirdParties",
+        "EQT-09TransgenderandGenderNonconformingEmployees",
+        "EQT-01NondiscriminationandPolicyStatement",
+        "EQT-03SexualMisconductTowardStudents",
+        "EQT-05Bias-BasedConductTowardEmployees",
+        "EQT-04StudentsandGenderIdentity"
+    ],
+    "SHS": [
+        "SHS-26AdministrationofNaloxone",
+        "SHS-05TuberculosisProgram",
+        "SHS-24DiaperingandToiletingAccidentsPolicy",
+        "SHS-16SuicidePrevention&Intervention",
+        "SHS-13TransportationMedicalAccommodation",
+        "SHS-22AutomaticExternalDefibrillatorPolicy",
+        "SHS-25SickleCellDiseasePolicy",
+        "SHS-04InfectionPreventionControl",
+        "SHS-20AsthmainSchools",
+        "SHS-01DrugandAlcoholAbuse",
+        "SHS-08MedicationAdministration",
+        "SHS-11LifeThreateningAllergies",
+        "SHS-21DiabetesPolicy",
+        "SHS-23CondomAccessibility",
+        "SHS-06ImmunizationLaw"
+    ],
+    "SCP": [
+        "SCP-01School-CommunityPartners"
+    ],
+    "SAF": [
+        "SAF-09LostChildrenProcedures",
+        "SAF-04IncidentDataReportingandRelease(1)",
+        "SAF-01StudentSearchProcedures",
+        "SAF-02WeaponsandObjectsofNoReasonableUse",
+        "SAF-03LockerPolicy",
+        "SAF-08ReleaseofStudentstoAuthorizedPersons",
+        "SAF-12SchoolAccessControl",
+        "SAF-04IncidentDataReportingandRelease"
+    ],
+    "SSS": [
+        "SSS-19Home&HospitalInstructionPolicy",
+        "SSS-07PersistentlyDangerousSchoolsStandardsforDetermination",
+        "SSS-02HomelessStudents",
+        "SSS-09EmploymentPermitApplictionsandIssuanceofWorkPermits",
+        "SSS-18BullyingPreventionandInterventionPlan"
+    ],
+    "OIIT": [
+        "OIIT-02ProcuringDigitalProductsGuidanceDocument",
+        "OIIT-03TechnologyPurchasing,Acquisition&ReturnGuide",
+        "OIIT-01AcceptableUsePolicy"
+    ],
+    "ATH": [
+        "ATH-02AthleticEligibility",
+        "ATH-01PreventionandManagementofSports-RelatedHeadInjuries"
+    ],
+    "ACA": [
+        "ACA-18AttendancePolicies&Procedures"
+    ],
+    "LGL": [
+        "LGL-06ReligiousHolyDays",
+        "LGL-21UseofBPSBuildingsandFacilitiesforPoliticalPurposes",
+        "LGL-03PublicRecordRequests",
+        "LGL-07StudentRecords",
+        "LGL-16StudentHealthInformation",
+        "LGL-17ReligiousExpressioninSchools",
+        "LGL-22SexualOffenderRegistryInformation",
+        "LGL-10MilitaryRecruiters",
+        "LGL-18DisplayofFlagandSchoolCeremonies",
+        "LGL-05Subpoenas",
+        "LGL-04SchoolVisitorGuidelines",
+        "LGL-20CorporalPunishment",
+        "LGL-14GatheringonSchoolGrounds,DistribofMaterialsinSchools",
+        "LGL-15StudentSurveys",
+        "LGL-08AdherencetoCourtOrders",
+        "LGL-09PoliticalActivitybyPublicEmployees",
+        "LGL-01Anti-Hazing",
+        "LGL-19ConflictofInterestLaw-CityEmployees"
+    ],
+    "SUP": [
+        "SUP-20ChildAbuseandNeglect",
+        "SUP-19De-EscalationandPhysicalRestraintPolicy.docx"
+    ],
+    "AMT": [
+        "AMT-03DYSCommittedStudents",
+        "AMT-01ExamSchoolApplicationandAdmissions",
+        "AMT-06VoluntaryTransferPolicy",
+        "AMT-07SafetyTransferRequest",
+        "AMT-05MaximumAgeAssignmentandEnrollmentPolicy",
+        "AMT-04GradeRequirements"
+    ],
+    "FMT": [
+        "FMT-08RecyclingandZeroWastePolicy",
+        "FMT-12DamageResultingfromFire,Theft,VandalismorUnlawfulActs",
+        "FMT-10IntegratedPestManagement(IPM)",
+        "FMT-11GreenCleanersPolicy",
+        "FMT-02WorkOrderRequests",
+        "FMT-20DrinkingWaterAccessPolicy",
+        "FMT-05FacilitiesBuildingPermits&Conditions",
+        "FMT-03RenovationstoSchoolBuildingsandYards",
+        "FMT-04CustodialPayAdjustments",
+        "FMT-01PerformanceEvaluationofCustodians",
+        "FMT-18ScienceSafetyinSchools",
+        "FMT-09MaterialDistributionProcedures",
+        "FMT-19Cleaning&DisinfectingBodilyFluidSpillSOPSY23(1)",
+        "FMT-15SYEnvironmentalAuditProgram"
+    ],
+    "TRN": [
+        "TRN-03FieldTrip&AthleticsTransportation",
+        "TRN-01ScheduleofSchoolHours",
+        "TRN-02StudentTransportationSafetyandDiscipline"
+    ],
+    "FSE": [
+        "FSE-08SafeModeandInternalThreatProcedures",
+        "FSE-05MedicalEmergencyManagement",
+        "FSE-07PublicHealth&WorkplaceSafety",
+        "HRS-HS02JobSharingforPermanentTeachersandParas",
+        "FSE-03BuildingCodes&FireRegulations",
+        "FSE-02FireSafetyPractices",
+        "FSE-06StudentSafety_HealthinSchoolShops,Labs&Classrooms",
+        "FSE-01SchoolSafetyContingencyPlans",
+        "FSE-04BombThreatProcedures"
+    ],
+    "HRS": [
+        "HRS-PM01PerformanceEvaluationofTeachers",
+        "HRS-PP05AttendanceMonitoring",
+        "HRS-PP12MassachusettsDomesticViolenceLeavePolicy",
+        "HRS-PM02PerformanceEvaluationofInstructionalBASASAdministrators",
+        "HRS-PP14LeaveforCancerScreeningandOrganDonations",
+        "HRS-PP20ChangesinPayFrequencyforParasandComm.FieldCoordinators",
+        "HRS-PM05PerformanceEvaluationofLunchMonitors",
+        "HRS-HS07.1QualificationsforAdditionalProgramAreas",
+        "HRS-L01TeacherLicensure",
+        "HRS-PM02APerformanceEvaluationofNon-InstructionalBASASAdministrators",
+        "HRS-PM04PerformanceEvaluationofNon-DESELicensedBTUEmployees",
+        "HRS-PP11DrugFreeWorkplacePolicyandProcedure",
+        "HRS-PP06ConfidentialityofPersonnelRecordsandEmploymentVerification",
+        "HRS-PP03TuitionReimbursement",
+        "HRS-PM08PerformanceEvaluationofBus_CabMonitors",
+        "HRS-PM10PerformanceEvaluationofABASpecialists",
+        "HRS-PP08IncentiveforEarlyNotificationofTerminationforBTU",
+        "HRS-PP13AFamilyandMedicalLeaveAct",
+        "HRS-L02ParaprofessionalESSARequirements",
+        "HRS-L03LicensureRequirementsforPrincipals-HeadsofSchoolandBASAS",
+        "HRS-HS04SchoolLeaderScreeningProcess",
+        "HRS-PP09CriminalHistoryScreening",
+        "HRS-PM09PerformanceEvaluationofClusterSubstitutes",
+        "HRS-PP16EmployeeSavingsandInvestmentBenefits",
+        "HRS-PP15SickLeaveDonationProgram",
+        "HRS-PM06PerformanceEvaluationofManagerialEmployees",
+        "HRS-PP07Workers'CompensationProcedures",
+        "HRS-PM07APerformanceEvaluationofNon-ClassroomParaprofessionals",
+        "HRS-PM03PerformanceEvaluationofMembersoftheAdministrativeGuild",
+        "HRS-PP13EmployeeSickLeavePolicy",
+        "HRS-HS06SubstituteTeachers",
+        "HRS-PP17EmployeeResignation,Retirement,andSeparationProcedure",
+        "HRS-HS07StaffingReassignmentandHiring",
+        "HRS-PP19Performance-RelatedDismissalProcessforTeachers",
+        "HRS-PP01ContractualBenefits_CareerAwards,SalaryLanes,SalarySteps,AcademicLadderCredits",
+        "HRS-PM07PerformanceEvaluationofClassroomParaprofessionals"
+    ],
+    "SPE": [
+        "SPE-14CounselingGuidelines",
+        "SPE-20SPEDScreeningfor3and4YearOlds"
+    ],
+    "FAM": [
+        "FAM-07Home-SchoolCompact",
+        "FAM-03StudentGovernment",
+        "FAM-02SchoolSiteCouncils",
+        "FAM-05TitleIFamilyEngagementRequirements",
+        "FAM-01SchoolParentCouncils",
+        "FAM-06BostonStudentAdvisoryCouncil",
+        "FAM-08TranslationandInterpretationServices",
+        "FAM-04PersonnelSubcommittee"
+    ],
+    "COM": [
+        "COM-02MediaRelationsPolicy",
+        "COM-01CommunicationsPolicy"
+    ],
+    "EL": [
+        "EL-06InitialIdentificationandAssessmentofMultilingualLearners",
+        "EL-07InstructionalSystem&MonitoringforMultilingualLearners",
+        "EL-04TitleIExpendituresforELs"
+    ],
+    "HWD": [
+        "HWD-03ComprehensiveHealthEd",
+        "HWD-01WellnessPolicy",
+        "HWD-02PhysEd&PhysicalActivity",
+        "HWD-06Tobacco-NicotinePolicy",
+        "HWD-04HealthySchoolEnvironmentPolicy"
+    ],
+    "CAO": [
+        "CAO-03TextbookManagement",
+        "CAO-23DayFieldTripGuidelines",
+        "CAO-22GeneralFieldTripGuidelines",
+        "CAO-05ServicesforMultilingualLearnerStudents",
+        "CAO-08GradingRequirements",
+        "CAO-25InternationalFieldTripsGuidelines&Forms",
+        "CAO-27WaterActivitiesonFieldTrips",
+        "CAO-07GraduationRequirements",
+        "CAO-24DomesticOvernightFieldTripGuidelines",
+        "CAO-01PromotionPolicy"
+    ],
+    "FNS": [
+        "FNS-02EmergencyMealProcedures",
+        "FNS-04Responsibilities4RegardingSchoolFoodServices",
+        "FNS-03CompetitiveFoodsGuidelines",
+        "FNS-06MenuStandardsandGuidelines"
+    ]
+}
