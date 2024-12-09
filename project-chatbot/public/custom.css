@@ -1,0 +1,16 @@
+a[href*='https://github.com/Chainlit/chainlit'] {
+    visibility: collapse;
+    position: relative;
+}
+
+a[href*='https://github.com/Chainlit/chainlit']::after {
+    content: "Chatbot can make mistakes. Check important info.";
+    visibility: visible;
+    color: Grey;
+    position: fixed;
+    bottom: 20px;
+    left: 50%;
+    transform: translateX(-50%);
+    white-space: nowrap;
+    font-size: 12px;
+}
