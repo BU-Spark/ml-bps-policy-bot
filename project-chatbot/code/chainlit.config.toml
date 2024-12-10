@@ -1,0 +1,5 @@
+[project]
+enable_telemetry = false
+
+[UI]
+name = "Boston Public School Policy Advisor" 
