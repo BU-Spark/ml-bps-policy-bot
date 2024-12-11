@@ -11,8 +11,6 @@ from langchain.text_splitter import RecursiveCharacterTextSplitter
 from utils.faiss_handler import *
 from utils.chunker import *
 
-os.environ['TF_ENABLE_ONEDNN_OPTS'] = '0'
-
 # Initialize OpenAI client
 client = AsyncOpenAI()
 
