@@ -43,13 +43,13 @@
      ```
 
 1. **`source_links.json`**:
-   - This file contains the all the links associated with each policy documnet
-   - User should periodically update it to retrieve link from RAG model.  
+   - This file contains all the links associated with each policy document
+   - User should periodically update it to retrieve the links from the RAG model.  
 
 2. **`vector_store/` Directory**:
    - Contains the FAISS index and metadata files for the embedded policy documents.
    - Files:
-     - **`faiss_index`**: The FAISS index storing vector representations of document chunks for efficient similarity search.
+     - **`faiss_index`**: The FAISS index stores vector representations of document chunks for efficient similarity search.
      - **`faiss_meta.json`**: Metadata associated with the FAISS index, mapping vector IDs to the corresponding documents.
 
 3. **`app.py`**:
@@ -59,7 +59,7 @@
 
 4. **`utils/` Directory**:
    - Contains helper modules for core functionality:
-     - **`faiss_handler.py`**: Handles FAISS embedding, index loading, saving, add to FAISS, remove from FAISS, and similarity searches.
+     - **`faiss_handler.py`**: Handles FAISS embedding, index loading, saving, adding to FAISS, removing from FAISS, and similarity searches.
      - **`chunker.py`**: Processes and splits policy documents into smaller chunks.
 
 5. **`requirements.txt`**:
@@ -73,33 +73,34 @@
    - User can only retrieve policy documents
     - username: user
     - password: 123
-   - Admin can retrieve policy documents, reindex the vector store, upload new document(s) to vector store, and remove specifc document from vector store.
+   - Admin can retrieve policy documents, reindex the vector store, upload new document(s) to the vector store, and remove specific documents from the vector store.
     - username: admin
     - password: 321
 
 2. **Reindex**:
    - Enter: 'reindex' on chatbot interface.
+   - Put the policy documents in the `data/documents/dataset` directory.
    - The application will re-chunk and re-embed the policy documents in `data/documents/dataset` directory.
 
 3. **Upload**:
    - Attach the document(s) and source link(s) associated with each document(s) on chatbot interface
-   - The application will chunk and embed ONLY the uploaded documents and add to vector store.
+   - The application will chunk and embed ONLY the uploaded documents and add them to the vector store.
 
 4. **Remove**:
-   - Enter: 'remove: <file_name>' to remove specific document from vector store.
+   - Enter: 'remove: <file_name>' to remove the specific document from the vector store.
    - ex: remove: CAO-06 GPA Calculation Method
 ---
 
 ## **Error Management**
 
 1. **Chainlit Timeout**:
-   - When performing 'reindex', the chainlit will timeout during embedding process.
+   - When performing 'reindex', the chainlit will timeout during the embedding process.
    - Admin can Stop Task after the console print: 
       - FAISS index saved to ./data/vector_store/faiss_index
       - Metadata saved to ./data/vector_store/faiss_meta
 
 2. **Re-run reindex**:
-   - When error occured, admin can run 'reindex' to fix the error.
+   - When an error occurs, the admin can run 'reindex' to fix the error.
 
 3. **Contact**:
-   - Contact: tedduoduo@gmail.com for any further issue.
+   - Contact tedduoduo@gmail.com with any further issues.
