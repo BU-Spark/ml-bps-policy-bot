@@ -12,8 +12,8 @@
    ```
 
 3. **Environment Variables**:
-   Replace the "OPENAI_API_KEY" and "CHAINLIT_AUTH_SECRET" in .env
-   You can generate CHAINLIT_AUTH_SECRET using: 
+   - Replace the "OPENAI_API_KEY" and "CHAINLIT_AUTH_SECRET" in .env
+   - You can generate CHAINLIT_AUTH_SECRET using: 
     ```bash
    chainlit create-secret
    ```
