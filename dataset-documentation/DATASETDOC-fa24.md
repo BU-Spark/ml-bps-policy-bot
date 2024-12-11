@@ -3,7 +3,7 @@
 * What is the project name?  
   * BU Hariri: Wheelock / BPS Policy Help Bot
 * What is the link to your project’s GitHub repository? 
-  * Link: https://github.com/BU-Spark/ml-bps-policy-bot/tree/main  
+  * Link: https://github.com/BU-Spark/ml-bps-policy-bot 
 * What is the link to your project’s Google Drive folder? \*\**This should be a Spark\! Owned Google Drive folder \- please contact your PM if you do not have access\*\**  
   * Link: https://drive.google.com/drive/u/1/folders/1mseCWp-9CYDDgeV8qY8qoM0IxdG0Xq--
 * In your own words, what is this project about? What is the goal of this project? 
@@ -18,7 +18,7 @@
 ***Dataset Information***
 
 * What data sets did you use in your project? Please provide a link to the data sets, this could be a link to a folder in your GitHub Repo, Spark\! owned Google Drive Folder for this project, or a path on the SCC, etc. 
-  * Link: https://github.com/BU-Spark/ml-bps-policy-bot/tree/dev/data/data_json/
+  * Link: https://github.com/BU-Spark/ml-bps-policy-bot/tree/main/data/data_json/
 * Please provide a link to any data dictionaries for the datasets in this project. If one does not exist, please create a data dictionary for the datasets used in this project. **(Example of data dictionary)**   
 # Data Dictionary for JSON Dataset
 
