@@ -1,0 +1,180 @@
+Page 1:
+ 
+ 
+Superintendent’s 
+Circular 
+ 
+NUMBER: 
+CAO-06 
+Version 01 
+ 
+ 
+ 
+ GRADE POINT AVERAGE CALCULATION METHOD 
+This Circular will remain in effect unless rescinded or superseded 
+by a subsequent version. 
+RATIONALE 
+The purpose of this document is to outline how grade point 
+averages (GPAs) are calculated and used within the Boston 
+Public Schools. 
+DEFINITION 
+The grade point average (GPA) is a standard numerical 
+conversion of letter grades given to a student. The GPA is a 
+standard method of comparing the cumulative academic 
+performance of students in grades 9-12 and sharing that 
+information. The GPA is used for several purposes such as college 
+admissions, high school ranking, and selective program 
+admissions. The GPA calculation takes in a variety of information 
+from courses such as credits and academic level.   
+GPA CALCULATIONS 
+Use the following steps to complete the weighted GPA 
+calculation:  
+Step 1. Convert each final grade (numeric or letter grade) to 
+its equivalent on the 4.0 scale.  
+
+
+Page 2:
+Superintendent’s Circular CAO-06 
+Page 2 of 5 
+ 
+ 
+ 
+Step 2. Weight grades by adding .5 to each converted grade 
+earned in an Honors level course and 1.0 to each converted 
+grade earned in Advanced Placement or Dual Enrollment 
+course.  
+Step 3. Multiply each converted grade or, if applicable, each 
+weighted grade by the course credits earned. Where a full-
+year course equals 1 credit; a semester course equals .5 
+credits; a quarter course equals .25 credits. 
+Step 4. Sum all the weighted grade points from Step 3.  
+Step 5. Divide total from Step 4 by total number of course 
+credits attempted.  Where a full-year course equals 1 credit; 
+a semester course equals .5 credits; a quarter course 
+equals .25 credits. 
+Step 6. The quotient is the student's weighted GPA. 
+GPA = Total (Point + Weight) * Credit) for all courses / Total 
+Credits for all courses 
+COURSE INFORMATION 
+1. Course 
+a. Student courses taken in grades 9-12 will be included in 
+the GPA calculation. High school level courses taken by 
+a student in middle school grades will not be included 
+in the calculation.  
+b. Include in GPA or InGPA flag 
+c. This indicator describes the courses that will be 
+included in any academic GPA calculation. Courses 
+
+
+Page 3:
+Superintendent’s Circular CAO-06 
+Page 3 of 5 
+ 
+ 
+ 
+that are required for graduation are included in GPA 
+calculations. Courses that typically are excluded from 
+academic GPA calculations include enrichment 
+courses, functional courses, study periods and 
+administration blocks such as lunch. The district 
+determines which courses are included within a 
+student’s GPA calculation, additionally such courses 
+may also be required by schools for graduation. The 
+Division of Academics maintains and updates the list of 
+all applicable courses to be included in the GPA 
+calculation. School users can find InGPA information in 
+the Course Catalog feature in Aspen. 
+2. Credits 
+a. Credits describe the number of ‘points’ that a course 
+will receive in a GPA after the course is completed. In 
+general, most courses will have 1 credit. However, 
+certain courses may have more than 1 credit, such as 
+double-blocked humanities courses. Similarly, some 
+courses have fewer than 1 credit, such as 1 semester 
+(half-year) courses. In the cumulative GPA calculation 
+within a school year, quarter or term grades for a 1 
+semester course will be attributed .25 credits in the 
+GPA calculation. 
+b. Credits are generally distributed based on the 
+successful completion of the competencies of the 
+course. 
+c. Transfer-in credits are credits that a student earns in a 
+setting outside of BPS. These credits are included on a 
+student’s transcript and count towards a school’s 
+graduation requirements. Therefore, these credits will 
+
+
+Page 4:
+Superintendent’s Circular CAO-06 
+Page 4 of 5 
+ 
+ 
+ 
+be used in the GPA calculation. This is in alignment 
+with the Massachusetts Board of Higher Education’s 
+(MA BHE) process of calculating GPAs.  
+3. Academic level 
+a. The academic level of a course can be one of 8 options 
+(see table below). 
+b. Weights are applied to courses through the academic 
+level of the course. The following weights are given to 
+each academic level based on the MA Board of Higher 
+Education recommendations (Link to full weighting 
+chart). 
+ 
+Weighting 
+Course Academic Level 
+Not included 
+Functional 
+Untracked 
+ 
++0 (standard) 
+Regular 
+ 
+ 
++0.5 
+Honors 
+IB MYP 
+ 
++1.0 
+College 
+AP 
+IB DP 
+ 
+GPA CALCULATION DATES (BPS CALENDAR) 
+The GPA calculation dates for SY24 can be found here.  
+GPA INCLUDED IN TRANSCRIPT 
+While there are several GPA calculations in Aspen, only the 
+cumulative weighted academic GPA calculation is included on a 
+student’s official transcript. The quarter, semester, and final GPAs 
+
+
+Page 5:
+Superintendent’s Circular CAO-06 
+Page 5 of 5 
+ 
+ 
+ 
+are saved throughout the school year but will be overwritten 
+each year. The final cumulative GPA (accumulation over grades 9-
+12) as of the current year is saved in Aspen and transferred to the 
+Data Warehouse. 
+HELPFUL LINKS 
+Grade Point Average (GPA) Help Guides for Aspen 
+Weighting Chart 
+ 
+For more information about this circular, contact: 
+Owner: 
+Chief of Teaching and Learning 
+Department: 
+Office of Teaching & Learning 
+Mailing Address: 
+2300 Washington Street, Roxbury, MA 02119 
+Phone: 
+617-635-6053 
+Email: 
+OPL@bostonpublicschools.org 
+ 
+Mary Skipper, Superintendent 
+
+
