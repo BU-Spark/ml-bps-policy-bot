@@ -171,3 +171,5 @@ $RECYCLE.BIN/
 
 #pycache files ignored
 project-chatbot/code/__pycache__/*
+
+**/.DS_Store

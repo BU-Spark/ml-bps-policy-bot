@@ -1,0 +1,204 @@
+Page 1:
+ 
+ 
+Superintendent’s 
+Circular 
+NUMBER: 
+FIN-16 
+Version 01 
+ 
+ 
+ 
+BUDGET TRANSFERS 
+This Circular will remain in effect unless rescinded or superseded 
+by a subsequent version. 
+Please use the online reference document Budget Transfers as 
+your guide to initiating online budget transfer requests.   
+ 
+INTRODUCTION 
+Each year, departments review their budgets and allocate money 
+for various goods and services for the next fiscal year. Funds are 
+allocated to budget lines reflective of their intended use. As 
+needs change, departments often want to reallocate money 
+between budget lines. This can be accomplished through a 
+budget transfer. Budget transfers are the mechanism by which 
+available budgeted resources are moved from one budget line 
+item to another in the Boston Public Schools financial system 
+(PeopleSoft). 
+All budget transfer requests are entered directly into the 
+PeopleSoft financial system by authorized users (principals, 
+heads of school, responsibility center managers, or their 
+designees). The Budget Office no longer accepts paper transfer 
+forms. A detailed “job aid” follows on how an online budget 
+transfer request is initiated.  
+
+
+Page 2:
+Superintendent’s Circular FIN-16 
+Page 2 of 5 
+ 
+ 
+ 
+The on-line budget transfer request process involves 6 basic 
+components:  
+1) Navigate to the transfer “form” (budget journal) in 
+PeopleSoft. 
+2) Enter data (explanation, budget codes, dollars, and/or FTEs).  
+3) Complete a budget error check.  
+4) Save the completed transfer.  
+5) Send to the Budget Office for approval.  
+6) Track the progress of your transfer online. 
+INCREMENTAL APPROACH 
+Budget transfers employ an “incremental” approach, meaning 
+that if dollars are being moved from a particular line item, a 
+negative dollar value will be associated with that line item. 
+Conversely, if resources are being moved to a line item, the dollar 
+value in the amount column will be a positive figure. Budget 
+transfers must sum to $0. For example, if a principal wished to 
+move $3,000.00 from a contracts line item to a stipends line item, 
+the transfer lines might look like this: 
+Account 
+Fund 
+RC 
+Program 
+Subclass 
+Amount 
+52907 
+Contracted 
+Services  
+100 
+General 
+Fund     
+101203 
+Adams 
+School  
+2112  
+Elem Ed.       
+ 
+ 
+0000 
+- 
+$3,000.00 
+51202 Prof. 
+OT/ Stipends 
+100 
+General 
+Fund     
+101203 
+Adams 
+School 
+2014  
+Grade 4      
+ 
+ 
+0000   
+$3,000.00     
+ 
+ 
+ 
+
+
+Page 3:
+Superintendent’s Circular FIN-16 
+Page 3 of 5 
+ 
+ 
+ 
+Budget transfers involving additions, deletions, or changes to full-
+time equivalent (FTE) positions also follow an incremental 
+approach. Therefore, a negative FTE would be associated with the 
+reduction or deletion of a position, and a positive FTE with the 
+creation or increase of a position. For example, if I wished to 
+reduce a position from a 0.8 FTE to a 0.6 FTE, I would type -0.2 in 
+the FTE column (“statistic amount” in the budget journal) for that 
+budget line. If I wished to delete that position entirely, I would 
+have put -0.8 in the FTE column. If I had wished to increase the 
+position to 1.0 FTE, I would have typed 0.2 in the FTE column. 
+Whenever a budget transfer involves a position, the position 
+number should be identified in the “reference” field in the 
+budget transfer. If requesting a new position, leave the reference 
+field blank, to be filled in by the Budget Office when the new 
+position is created.   
+REQUIREMENTS & RESTRICTIONS 
+1. The authorizer requesting the transfer must have BAIS FN 
+access.  
+2. No Responsibility Center will be allowed to transfer funds 
+arising from staff vacancies.  These “lag funds” make up the 
+Boston Public Schools contingency fund and will be 
+reallocated at the sole discretion of the superintendent.  
+Exceptions to this policy will only be made upon written 
+request and written approval by the chief financial officer. 
+3. Funds should not be transferred out of personnel accounts 
+(starting with 51__) or substitute accounts. Under normal 
+circumstances, adjustments to budget line items associated 
+with positions will be rare and must be explicitly approved 
+
+
+Page 4:
+Superintendent’s Circular FIN-16 
+Page 4 of 5 
+ 
+ 
+ 
+by the Office of Human Capital prior to the budget transfer 
+request being approved. 
+4. Budget transfer requests that lack sufficient explanatory 
+detail in the “Long Description” text box on the budget 
+journal header will not be approved. 
+5. In concert with the annual requisition deadline, budget 
+transfers for any fiscal year will not be processed after the 
+April requisition deadline of that fiscal year.  The only 
+exception to this policy may be transfers for grants which 
+extend beyond June 30.  
+6. Transfer requests which exceed the “available amount” left 
+in a particular line will not be processed (in other words, you 
+cannot transfer funds which you have already spent!). 
+7. Line-item budget transfers can only take place within a 
+funding source (i.e., General Fund to General Fund or Title 1 
+to Title 1), but not between the General Fund and a grant, 
+nor between two separate grants. 
+8. Title I EL funds (programs that begin with 24__) cannot be 
+transferred to another program, as this funding can only be 
+used for ELLs. Likewise, partnership funds (program 2536), 
+and parent support services funds (Fund 200 program 2515) 
+should not be moved to another program. Homeless 
+services funds (program 2533) should be kept in the same 
+code where possible but are not fully restricted. 
+9. Authority to request budget transfers is reserved to 
+principals, heads of school, and RC managers, unless and 
+until they explicitly delegate that authority to a designee in 
+writing to the chief financial officer or the budget director. 
+
+
+Page 5:
+Superintendent’s Circular FIN-16 
+Page 5 of 5 
+ 
+ 
+ 
+10. While the on-line budget transfer protocol has made the 
+execution of budget transfers simple and efficient, there is 
+no substitute for thoughtful, forward-looking resource 
+planning.  The Budget Office is glad to assist with such 
+planning. 
+ 
+PLEASE USE THE ONLINE REFERENCE DOCUMENT BUDGET 
+TRANSFERS AS YOUR GUIDE TO INITIATING ONLINE BUDGET 
+TRANSFER REQUESTS.   
+ 
+For more information about this circular, contact: 
+Owner: 
+Budget Director 
+Department: 
+Budget Office 
+Mailing Address: 
+2300 Washington Street. Roxbury, MA 02119 
+Phone: 
+617-635-6772 
+E-mail: 
+finance-staff@bostonpublicschools.org 
+ 
+  
+Mary Skipper, Superintendent 
+
+

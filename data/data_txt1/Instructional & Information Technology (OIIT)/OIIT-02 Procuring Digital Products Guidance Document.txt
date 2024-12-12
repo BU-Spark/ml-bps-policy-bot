@@ -1,0 +1,160 @@
+Page 1:
+ 
+ 
+Superintendent’s 
+Circular 
+NUMBER: 
+OIIT-02 
+Version 01 
+ 
+ 
+ 
+PROCURING DIGITAL PRODUCTS GUIDANCE 
+DOCUMENT 
+This circular will remain in effect unless rescinded or superseded by a 
+subsequent version 
+PURPOSE 
+This document is intended to provide guidance to Boston Public 
+Schools (BPS) staff on the process to procure new digital learning 
+technologies that use student education records or staff 
+information. The overarching guidance is that schools and central 
+office departments should continue to use already-vetted digital 
+products that are included with the Google Enterprise suite of 
+tools or those that are included in Clever. 
+DEFINITIONS 
+Digital Tool - Any digital products or learning tools that are used 
+to enhance or improve workflows that do not store or maintain 
+data/information. Examples include applications like 
+Smartsheets, Chrome Extensions, or personal notation tools. 
+These tools are exempt from this circular. 
+System - Any digital platform that purposely built to store, 
+maintain, or transfer sensitive student or staff data/information. 
+Examples include Aspen or EdPlan. 
+
+
+Page 2:
+Superintendent’s Circular OIIT-02 
+Page 2 of 5 
+ 
+ 
+ 
+Platform - A suite of tools and programs that allow users to 
+create structures to maintain information. Examples include 
+Google Apps, Salesforce, or Wordpress. 
+Learning Application - Any digital tool used in a classroom 
+setting that may contain content and student 
+information/progress. Learning applications may fall into multiple 
+categories, depending on how they are used, but any tool that 
+contains content and tracks student learning should be 
+considered a learning app for the purpose of this document. 
+Examples include Imagine Learning. 
+CONTEXT 
+BPS staff seeking online learning products or receiving offers to 
+use online learning products to support instruction in a digital 
+space has resulted in the desire to use products that may not be 
+aligned to BPS instructional standards, do not comply with our 
+technical specifications, or do not adhere to data sharing 
+guidelines under FERPA. Our district is committed to ensuring 
+that appropriate educational supports and effective learning 
+opportunities are provided to students. As such, this document 
+will outline guidance for the appropriate review of digital 
+learning tools in BPS. The guidelines outlined below are created 
+to ensure that product confidentiality and security practices 
+meet or exceed industry standards and adhere to the 
+expectations contained in the federal Family Education Rights 
+and Privacy Act (FERPA), the Children’s Online Privacy Protection 
+Act (COPPA), the Protection of Pupil Rights Amendment (PPRA), 
+and HIPAA regulations. This document describes the 
+considerations schools and central office staff should employ 
+
+
+Page 3:
+Superintendent’s Circular OIIT-02 
+Page 3 of 5 
+ 
+ 
+ 
+around protecting student data and education records, when 
+selecting digital learning tools.  
+GUIDANCE FOR BPS STAFF PROCURING DIGITAL PRODUCTS  
+Any tools or products that are procured (paid for or free) by 
+schools or departments for schoolwide or districtwide use need 
+to comply with the FERPA school official exception criteria1 and 
+specifications for technical interoperability. Exceptions are made 
+for tools that do not track/store/maintain student or staff 
+information. For example, a Chrome Extension that magnifies the 
+screen does not fall under these guidelines since it will not be 
+ 
+1 Performs an institutional service or function for which the 
+educational agency or institution would otherwise use its own 
+employees; 
+Has been determined to meet the criteria set forth in in the 
+educational agency’s or institution’s annual notification of 
+FERPA rights for being a school official with a legitimate 
+educational interest in the education records or PII; 
+Is under the direct control of the educational agency or 
+institution regarding the use and maintenance of the education 
+records or PII; and 
+Uses the education records or PII only for authorized purposes 
+and does not re-disclose the education records or PII to other 
+parties (unless the provider has specific authorization from the 
+educational agency or institution to do so and it is otherwise 
+permitted by FERPA). See 34 CFR §99.31(a)(1)(i). 
+
+
+Page 4:
+Superintendent’s Circular OIIT-02 
+Page 4 of 5 
+ 
+ 
+ 
+accessing any sensitive information. New requests for products 
+should: 
+1. Meet the district’s technical specifications 
+2. Have signed or sign a data privacy agreement  
+3. Aligned to the Essentials for Instructional Equity  
+4. Serve a purpose that is distinct from currently available tools 
+within the district. 
+PROCESS FOR SUBMITTING A SPENDING APPROVAL FOR THE 
+DIGITAL LEARNING PRODUCT 
+Before a new digital learning product will be integrated, the 
+following steps need to be completed: 
+1. Review the Essentials for Instructional Equity for alignment. 
+2. Have the vendor submit an NDA Request to receive and sign 
+the MA Student Data Privacy Agreement and Technology 
+Specifications Template. 
+3. Once fully executed, follow the procurement process as 
+outlined in the BUSINESS SERVICES GUIDE. 
+4. Once the product is procured, email the BPS Clever Admin 
+at cleveradmin@bostonpublicschools.org 
+ 
+ 
+ 
+ 
+ 
+
+
+Page 5:
+Superintendent’s Circular OIIT-02 
+Page 5 of 5 
+ 
+ 
+ 
+For more information about this circular, contact: 
+Name: 
+Director of Technology 
+Department: 
+Office of Instructional and Information 
+Technology, Office of Data & Accountability 
+Mailing Address: 
+Bruce C. Bolling Building, 2300 Washington 
+Street, Roxbury, MA 02119 
+Phone: 
+617-635-9200 
+Email: 
+Operations-Department-
+Heads@bostonpublicschools.org 
+ 
+Mary Skipper, Superintendent 
+
+
