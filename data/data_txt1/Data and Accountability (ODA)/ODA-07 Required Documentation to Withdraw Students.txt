@@ -1,0 +1,404 @@
+Page 1:
+ 
+ 
+Superintendent’s 
+Circular 
+NUMBER: 
+ODA-07 
+Version 01 
+ 
+ 
+ 
+REQUIRED DOCUMENTATION TO WITHDRAW 
+STUDENTS 
+This circular will remain in effect unless rescinded or superseded 
+by a subsequent version. 
+This circular lists the documentation schools are required to 
+obtain when withdrawing students and includes information on 
+monitoring processes conducted by the central office.  
+For the last several years, Boston Public Schools has been under a 
+state audit regarding our documentation of student withdrawals. 
+Auditors found that we collect insufficient documentation of 
+students categorized as withdrawals. The audit finding has been 
+upgraded to a “material weakness,” which is a more severe 
+finding. Lack of action could result in loss of federal funds (e.g., 
+Title 1) and/or the City’s overall credit rating. The Systemic 
+Improvement Plan required the district to revise withdrawal 
+procedures and implement controls for monitoring. All 
+administrative school staff (school leaders, registrars, or any 
+school administrator whose responsibilities involve enrolling or 
+withdrawing students) are required to complete asynchronous 
+training at the 2024 Management and Operations Institute. 
+OVERVIEW OF REQUIRED DOCUMENTATION 
+This section seeks to clarify what documentation is required and 
+acceptable. Schools can use this template to document 
+
+
+Page 2:
+Superintendent’s Circular ODA-07 
+Page 2 of 9 
+ 
+ 
+ 
+interactions with families and upload along with supporting 
+documentation or with a family signature. Your school may use 
+your own template as long as it contains the necessary 
+information and has been approved by the central office (contact: 
+student-withdrawal@bostonpublicschools.org). 
+ACCEPTABLE DOCUMENTATION TYPES FOR STUDENTS 
+WITHDRAWING INCLUDES: 
+1. A written request for a student’s records from a receiving 
+public or private high school or an educational program 
+(that culminates in a regular high school diploma). This 
+includes requests from the receiving school that come to 
+the district through Scrib Order. 
+2. Written record of a response from an official receiving 
+school or program acknowledging the student’s enrollment. 
+3. Written confirmation from a parent or guardian that their 
+student has moved to another state or country and will be 
+continuing their education. 
+4. Written confirmation from a parent/guardian updating the 
+school enrollment status of their child, including indication 
+that they will be continuing their education elsewhere. 
+5. Letter from the BPS Office of Expanded Learning Time, 
+indicating an approved Educational Plan for homeschooling. 
+6. Record from the state's data system (Edwin DESE Security 
+Portal - Central Office Process) 
+ 
+ 
+
+
+Page 3:
+Superintendent’s Circular ODA-07 
+Page 3 of 9 
+ 
+ 
+ 
+If you do not have the above documentation at the time of 
+withdrawal, the student must be withdrawn as a dropout. See 
+Appendix for a table of withdrawal codes with acceptable 
+matching documentation. 
+REQUIRED ELEMENTS OF SUFFICIENT WITHDRAWAL 
+DOCUMENTATION FOR A TRANSFER STUDENT INCLUDE: 
+1. Date when the transfer occurred or was confirmed, 
+including the year. 
+2. Identifiable name of the student withdrawing 
+3. Identifiable information for who is confirming the 
+withdrawal, such as the parent name or receiving school 
+registrar’s email address 
+4. Indication that the student is continuing their education 
+elsewhere 
+a. New school name is ideal but not required. Stating a 
+student will enroll in a school elsewhere is sufficient if 
+the new school name is not known. 
+Withdrawal documentation must be uploaded to the student 
+record in Aspen at the time of the withdrawal in a non-editable 
+format, such as a PDF, screenshot, scanned handwritten & signed 
+withdrawal form or letter. Word documents, Aspen journal 
+entries, travel tickets or itineraries are not acceptable forms of 
+documentation to confirm a transfer. 
+MONITORING AND ACCOUNTABILITY 
+School leaders will be required to identify a primary point of 
+
+
+Page 4:
+Superintendent’s Circular ODA-07 
+Page 4 of 9 
+ 
+ 
+ 
+contact at their school for withdrawal related processes. 
+Additionally, school leaders will be required to sign off that they 
+have reviewed student records and that sufficient 
+documentation exists for each student’s withdrawal code. This 
+sign off will align with the October state reporting period. Central 
+office staff will hold office hours and be available to answer 
+questions that may arise at this time period and will 
+communicate these dates via the Friday Flyer and Weekly Recap.  
+Additionally, the central office team will be conducting periodic 
+audits to confirm sufficient documentation is in place: Fall, Mid-
+Year, End of Year. Supervisors of attendance will be included as a 
+resource to support schools in gathering the necessary 
+documentation during review periods. 
+For questions and support, please contact the following: 
+General Questions 
+student-withdrawal@bostonpublicschools.org  
+Technical Questions 
+about Aspen 
+Kevin Arias, karias@bostonpublicschools.org  
+Graduation and 
+Dropout Reporting 
+Apryl Clarkson, 
+aclarkson@bostonpublicschools.org  
+Student Attendance 
+Requirements 
+Brian Marques, 
+bmarques@bostonpublicschools.org  
+School Specific 
+Questions 
+Supervisors of Attendance, Regional 
+Operational Leader and then School 
+Superintendent  
+ 
+
+
+Page 5:
+Superintendent’s Circular ODA-07 
+Page 5 of 9 
+ 
+ 
+ 
+TECHNICAL RESOURCES 
+Withdrawal Code Guidance 
+How to Update Withdrawal Codes in Aspen 
+How to Upload Documents in Aspen 
+"Did Not Report" Protocol for Students with IEPs 
+ 
+For more information about this circular, contact: 
+Owner: 
+Senior Executive Director 
+Department: 
+Office of Data and Accountability 
+Mailing Address: 
+2300 Washington Street, Boston, MA 02119 
+Phone: 
+617-635-9450 
+Email: 
+student-
+withdrawal@bostonpublicschools.org  
+ 
+ Mary Skipper, Superintendent 
+ 
+ 
+
+
+Page 6:
+Superintendent’s Circular ODA-07 
+Page 6 of 9 
+ 
+ 
+ 
+APPENDIX A: TRANSFER CODES WITH REQUIRED 
+DOCUMENTATION 
+BPS 
+Code 
+BPS Description 
+State 
+Code 
+State 
+Description 
+Required 
+Documen-
+tation Type 
+06 
+Mass. Public Boston Resident 
+20 
+Transferred — 
+In state public 
+1, 2, 4 
+ 
+09 
+EOY Flip Record 
+10 
+Batch Assignment process school 
+change 
+12 
+Mass. Public Non-Boston Resident 
+42 
+Discharged to Charter School 
+43 
+Discharged to Virtual School - Mass 
+Public 
+98 
+Residency Violation 
+99 
+Discharged - Student ID Error 
+01 
+Boston Parochial 
+21 
+Transferred — 
+In state private 
+1, 2, 4 
+03 
+Mass. Parochial Non-Boston 
+Resident 
+04 
+Mass. Parochial Boston Resident 
+07 
+Mass. Private (Non-Parochial) 
+Boston Resident 
+11 
+Boston Private (Non-Parochial) 
+13 
+Mass. Private (Non-Parochial) Non-
+Boston Resident 
+15 
+Home (*KINDERGARTEN ONLY) 
+44 
+Discharged to Virtual School - Mass 
+Private 
+19 
+Out of Country 
+22 
+ 
+Transferred — 
+Out-of-State 
+(public or 
+private) 
+1, 2, 3, 4 
+14 
+Out of State 
+1, 2, 4 
+45 
+Discharged to Virtual School - Out 
+of State 
+1, 2, 3, 4 
+
+
+Page 7:
+Superintendent’s Circular ODA-07 
+Page 7 of 9 
+ 
+ 
+ 
+05 
+Home Schooled 
+23 
+Transferred — 
+Home-school 
+5 
+30 
+Adult Diploma Program 
+24 
+Transferred — 
+Adult diploma 
+program 
+leading to MA 
+diploma 
+1, 2, 4 
+SS 
+No longer receiving special ed 
+services only 
+41 
+Transferred — 
+no longer 
+receiving 
+special 
+education 
+services only. 
+ 
+ 
+ 
+ 
+
+
+Page 8:
+Superintendent’s Circular ODA-07 
+Page 8 of 9 
+ 
+ 
+ 
+APPENDIX B: NON-TRANSFER WITHDRAWAL CODES 
+BPS 
+Code 
+BPS Description 
+State 
+Code 
+State Description 
+17 
+Graduate 
+04 
+Graduate with a Competency 
+Determination 
+95 
+Expelled from BPS 
+05 
+Expelled 
+96 
+Expelled from Other School 
+System 
+97 
+Multiple Expulsions 
+16 
+Death 
+06 
+Deceased 
+18 
+Student Reached Maximum 
+Age (22 yrs.) 
+09 
+Reached maximum age did not 
+graduate or receive a Certificate 
+of Attainment 
+33 
+Certificate of Attainment 
+10 
+Certificate of Attainment 
+31 
+Grade 12 - Met local 
+requirements/Did not pass 
+MCAS 
+11 
+Completed grade 12 and district-
+approved program. (District does 
+not offer a Certificate of 
+Attainment) 
+23 
+GED 
+30 
+Dropout — Enrolled in a non-
+diploma granting adult education 
+or HiSET program 
+27 
+Non-Diploma Educational 
+Program (non GED) 
+32 
+Job Corps 
+31 
+Dropout — Entered Job Corps 
+22 
+Military Service 
+32 
+Dropout — Entered the military 
+28 
+Incarcerated 
+33 
+Dropout — Incarcerated district 
+no longer providing educational 
+services 
+21 
+Work 
+34 
+Dropout — Left due to 
+employment 
+24 
+Over 16/No plans known 
+35 
+Dropout — Confirmed Dropout 
+plans unknown 
+25 
+Illness 
+26 
+Married Pregnant or Parenting 
+51 
+Registered - Did Not Report 
+36 
+Dropout — and/or student 
+
+
+Page 9:
+Superintendent’s Circular ODA-07 
+Page 9 of 9 
+ 
+ 
+ 
+52 
+Moved - No Forwarding Address 
+status/location unknown 
+D1 
+DNR More Than 8 Days 
+ 
+ 
+ 
+
+

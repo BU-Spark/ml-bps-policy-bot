@@ -1,0 +1,1759 @@
+Page 1:
+ 
+ 
+Superintendent’s 
+Circular 
+NUMBER: 
+FSE-01 
+Version 01 
+ 
+ 
+ 
+SCHOOL SAFETY CONTINGENCY PLANS 
+This Circular will remain in effect unless rescinded or superseded 
+by a subsequent version. 
+Emergencies happen randomly in time and place, but they can be 
+handled efficiently if you have an adequate school action plan and 
+an informed staff.  A plan without a crisis is better than a crisis 
+without a plan.  School administrators and staff routinely manage 
+crises efficiently, and a well thought out plan will ensure guidance 
+in a major emergency. 
+Boston Public Schools is a NIMS (National Incident Management 
+System) compliance district.  NIMS uses a core set of concepts, 
+principals, procedures, processes, standards, and terminology that 
+may all be integrated with school emergency management 
+practices.  This in part means that we use straight language and 
+not codes when emergencies happen.   
+When developing safety plans, school administrators must 
+consider mitigation/prevention, response and aftermath, and 
+components which apply to all emergency preparedness. 
+Prevention/mitigation 
+strategies 
+are 
+delineated 
+in 
+related 
+Superintendent’s Circulars.  Appropriate response will be detailed 
+in your School Safety Contingency Plan.  Dealing with recovery will 
+be addressed via Special Education and Student Services policies 
+and procedures and support from other BPS departments. 
+
+
+Page 2:
+Superintendent’s Circular FSE-01 
+Page 2 of 42 
+ 
+ 
+It is essential that there be a consistent approach to school safety 
+planning throughout the district.  This will ensure that each school 
+implements standard procedures in the event of an incident.  A 
+defined course of action will also complement the efforts of 
+responding public safety agencies. 
+The issue of school safety planning is regularly assessed.  Ongoing 
+risk analyses are conducted, and lessons learned from actual and 
+most probable school incidents are integrated with BPS safety 
+protocols.  Although every possible contingency may not be 
+identified in BPS School Safety contingency plan guidelines, your 
+plan should serve as a multi-hazard approach for handling school 
+incidents. 
+It is the responsibility of each school administrative head to 
+update, review with staff and submit their School Safety 
+Contingency Plan no later than the last week of August each 
+school year. 
+The names of those schools which fail to comply with this directive 
+are forwarded to the Superintendent’s Office for appropriate 
+action.  
+Your School Safety Contingency Plan is to be completed in the 
+Google doc shared with the school principal/head of school. Please 
+use the original doc to complete your plan. Do not copy and 
+share. It will be automatically saved. You are allowed continuous 
+access to maintain its currency.  It is also accessible to the 
+Superintendent’s Office staff and other appropriate BPS central 
+departments.  Boston public safety agencies — police, fire, EMS 
+and BOEM — have access to these plans in an emergency. The 
+Office of Emergency Management and Preparedness is available 
+as a resource to assist principals/schools leaders, heads of school 
+and other administrative heads with access information and 
+
+
+Page 3:
+Superintendent’s Circular FSE-01 
+Page 3 of 42 
+ 
+ 
+technical advice in order to complete their plans.  
+INSTRUCTIONS FOR UPDATING AND EDITING SCHOOL SAFETY 
+CONTINGENCY PLANS AND FIRE SAFETY PLANS 
+The following is information on how to access and edit your 
+building’s School Safety Contingency Plan and the building’s Fire 
+Safety Plan. The actual School Safety Contingency Plan for your 
+building was shared with you by the Director of the Office of 
+Emergency Management and Preparedness or Director of 
+Technology in a Google Doc. Use this Google Doc for all changes 
+and updates.  Please make all changes in the original doc. Do not 
+save and make changes.   
+► If you cannot locate your plan, please contact The Office of 
+Emergency Management and Preparedness Operations-
+Department-Heads@bostonpublicschools.org.  
+ 
+Summary of significant dates and deadlines: 
+Date 
+Activity 
+Last Week in August 
+Deadline for completion and submission on Google 
+Doc to The Director of the Office of Emergency 
+Management and Preparedness of revised School 
+Safety Contingency Plan and review same with 
+staff for this school year.   
+ 
+SECTION I: INTRODUCTION 
+The Boston Public Schools continues efforts to simplify and 
+
+
+Page 4:
+Superintendent’s Circular FSE-01 
+Page 4 of 42 
+ 
+ 
+standardize school safety plans throughout the system.  It is 
+understood that each school has its own “safety personality” based 
+on its construction design, location, number of staff, number and 
+grade level of students, as well as many other characteristics.  
+However, there are common elements, policies, and procedures 
+for all schools to follow in the event of an incident/crisis. 
+There are five phases of emergency management for school 
+administrators to consider when developing safety plans:  
+● Mitigation 
+● Prevention 
+● Preparedness  
+● Response  
+● Recovery 
+Although special emphasis is placed on spectacular and unusual 
+incidents by the media, there are many routine types of school 
+related occurrences that can also be extremely disruptive to a 
+school. 
+School administrators are called upon to deal with these 
+emergencies on a regular basis.  In every type of school incident, 
+the first responders and decision makers are school-based staff. 
+When the scope of an incident escalates beyond the resources 
+available at the school, initial actions taken or not taken by those 
+closest to the event can help or hinder those who will arrive later 
+and assume responsibility for resolving the situation. 
+The intent of these guidelines is to assist school administrators in 
+creating an appropriate working plan that will direct them 
+through a crisis and expedite the return of their school to its 
+normal operation following that crisis. It is a multi-hazard 
+approach to school incident management. 
+
+
+Page 5:
+Superintendent’s Circular FSE-01 
+Page 5 of 42 
+ 
+ 
+BPS guidelines are based on concepts utilized in an Incident 
+Command System developed by public safety agencies across the 
+nation.  The following is a brief overview of the Incident Command 
+System. 
+INCIDENT COMMAND SYSTEM 
+ICS has been modified for our application on the school level to 
+manage any incident/crisis within our capacity and maintain 
+compatibility 
+with 
+supplementary 
+public 
+safety 
+agency’s 
+emergency plans. 
+In managing any incident/crisis, the paramount objectives for all 
+school staff are to: 
+● Ensure safety of all occupants 
+● Follow BPS Safety Plan, Safe Mode and/or Fire protocol 
+● Stabilize and resolve the incident when possible 
+● Provide support for responding public safety agencies (911 
+and BPS Dispatch 617-635-8000) 
+● Protect school property 
+The Incident Command System (ICS) is based on a team concept, 
+where each team member has specific responsibilities.  BPS will 
+utilize an on-site team and an off-site team that will focus on 
+securing the necessary support from internal departments and 
+external agencies.  The information flow is illustrated on the next 
+page. 
+The on-site BPS Incident Control team (ICT) team model calls for 
+the following positions: 
+Site Incident Control Team  
+● Site Incident Control manager (SICM) 
+● Risk analyst 
+
+
+Page 6:
+Superintendent’s Circular FSE-01 
+Page 6 of 42 
+ 
+ 
+● Safety coordinator 
+● Building coordinator 
+● Incident scribe 
+The roles, responsibilities and required skills for a successful Site 
+Incident Control Team follow: 
+Site Incident Control Manager  
+Generally, the site incident control manager (SICM) should be the 
+head of school/principal/director, the individual who has ultimate 
+responsibility for his/her school’s operation.  The SICM must have 
+a clear understanding of the school system’s policies and 
+procedures.  The SICM must also be able to make quality 
+assessments, communicate well and command others.  These are 
+normal functions for a school’s administrator to perform. 
+Depending on the severity and tier level of the incident, the SICM 
+will establish a command post at a designated location and 
+activate the school’s internal team.  The nature of the incident 
+determines the configuration of the team.  In a large-scale 
+incident, the team can be expanded or collapsed as conditions 
+warrant. In a smaller school, one person may perform several tasks.   
+It must be understood that, initially, the SICM may be any member 
+of your staff who discovers or is alerted to an incident prior to 
+notification of the head of school/principal/director. 
+Risk Analyst 
+The risk analyst will be relied on to assess incurred injuries and 
+evaluate medical risks associated with developing and occurring 
+incidents.  Recommended personnel for this role include the 
+school 
+nurse, 
+school 
+psychologist, 
+and 
+student 
+support 
+coordinator.  Consideration of a school’s language requirements 
+
+
+Page 7:
+Superintendent’s Circular FSE-01 
+Page 7 of 42 
+ 
+ 
+should also be included in selection of the risk analyst. 
+Safety Coordinator  
+The safety coordinator will be called upon to gather occupancy 
+information and to support efforts to establish control at the 
+incident site.  Recommended personnel for this role include 
+School Registrar, School Police Officer, Safety Paraprofessional, 
+Dean of Discipline, and Transportation Coordinator.  Since schools 
+vary in size and range of staff, Principals and Headmasters are 
+urged to explore their building’s total resources to assist in 
+identifying this team member. 
+Building Coordinator  
+The building coordinator will meet and direct responding 
+agencies to appropriate locations.  The building coordinator will 
+also assess building security.  Due to familiarity and knowledge of 
+the assigned school and its systems, the senior building custodian 
+is the suggested primary designee for this role. 
+Incident Scribe 
+The incident scribe will be responsible for documenting the 
+chronology 
+of 
+events. 
+ 
+This 
+position 
+will 
+require 
+good 
+organizational skills and willingness to support the rest of the on-
+site Incident Control Team members.  Suggested staff includes the 
+school secretary or the person in your building responsible for 
+organizing student arrival and dismissal.   
+Smaller schools with limited numbers of administrators or support 
+staff may find it necessary to have team members perform more 
+than one role. 
+Classroom teachers are not recommended as potential members 
+
+
+Page 8:
+Superintendent’s Circular FSE-01 
+Page 8 of 42 
+ 
+ 
+of the on-site team.  Experience indicates it is best for classroom 
+teachers to remain with their assigned classes during critical 
+events.  A resource guide for classroom teachers is included in the 
+Emergency Response Guidelines.  
+CENTRAL INCIDENT MANAGEMENT  
+The BPS adaptation of the Incident Command Structure will 
+include the establishment of an off-site team that will support the 
+efforts of the on-site team.  The components of this off-site Crisis 
+Command Team will include Facilities Management, Emergency 
+Management, Transportation, Superintendent’s Office, Student 
+Support Services, Safety Services, and other areas that might be 
+required as incidents evolve.  The external team will provide liaison 
+support to any agency required by a situation.   
+ 
+ 
+
+
+Page 9:
+Superintendent’s Circular FSE-01 
+Page 9 of 42 
+ 
+ 
+Central Incident Management Team 
+Group 
+Primary 
+Phone 
+Facilities Management Executive Director of 
+Facilities 
+(617) 635-9126 
+BPS Emergency 
+Management 
+Director of 
+Emergency 
+Management  
+(857) 701-9404 
+(617) 635-6082 
+Transportation 
+Chief of 
+Transportation 
+(617) 635-9520 
+Behavioral Health 
+Services (BHS) 
+Chief of Student 
+Services 
+(617) 635-9676 
+Safety Services 
+Chief of Safety 
+Services  
+(617) 635-8000 
+ 
+Superintendent’s 
+Office 
+Deputy Supt of 
+Operations 
+(617) 635-9643 
+ 
+Office of Technology 
+CIO/Director 
+(617) 635-9200 
+Communications  
+Department 
+Chief of 
+Communications  
+(617) 635-9265 
+ 
+In many instances, this sophisticated level of staffing may not be 
+required.  However, considering identified functions requiring 
+performance in a crisis, the model ICS structure can be modified 
+for a specific application to ensure completion of critical 
+communications and data sharing tasks.  It is important to 
+understand that the incident command system is driven by 
+functions being performed and not simply staffing positions. 
+
+
+Page 10:
+Superintendent’s Circular FSE-01 
+Page 10 of 42 
+ 
+ 
+PUBLIC SAFETY RESPONSE 
+Should an incident necessitate a response by non-school 
+department public safety resources based on the assessment of 
+the school SICM, they will be met by the building coordinator and 
+informed of the nature of the incident and location of the school 
+command post.  
+Should conditions warrant, public safety personnel might assume 
+primary responsibility and command.  The responding public 
+safety officials may activate their own command post, at which 
+time an official from the impacted school may be requested to 
+take a position at that location. 
+INCIDENT TYPE AND RESPONSE 
+The BPS adaptation of the Incident Command System calls for 
+classification of an event or developing situations to be 
+categorized by the following tier level concepts.  The initial 
+assessment must quickly determine if the best response is safe 
+mode or evacuation. 
+School related incidents will be classified according to a level of 
+seriousness (Tiers I, II, III).  Appropriate school response to these 
+tiers would be to initiate emergency procedures, standby or 
+monitor the situation, or introduce proactive measures with 
+careful monitoring of developing situations. The appropriate 
+response or modes required by the SICM’s evaluation are defined 
+as follows: 
+Tier I – Any Situation That Requires Immediate 911 Response 
+Tier II – Stand By and Response Planning Mode 
+Tier III – Proactive Prevention and Monitoring Mode 
+ 
+
+
+Page 11:
+Superintendent’s Circular FSE-01 
+Page 11 of 42 
+ 
+ 
+DEFINING INCIDENT RESPONSES BY TIER LEVEL 
+Situations will be categorized by the Site Incident Control 
+manager (SICM) as a Tier I, Tier II, or Tier III issue. 
+Tier I – Presents Imminent Danger to Students, Staff, and 
+Property beyond the School’s Ability to Control
+● Bomb threat 
+● Fire alarm 
+● Armed person on or near 
+site 
+● Hostage situation 
+● School bus accidents 
+● Medical emergencies 
+● Hazardous materials 
+incident 
+● Gas leak 
+● Suicide threats 
+● Fire 
+● Explosion 
+● Kidnapping 
+● Sexual assault 
+● Lost or missing children 
+● Violent behavior 
+● Psychiatric emergency 
+● Chemical spills 
+● Natural disasters
+Tier II – Presents Potential Danger to Students, Staff and 
+Property 
+● Suicide warnings / signs of depression 
+● Weather warnings 
+● Environmental issues 
+● Facilities failures 
+● Increased gang activities 
+● Communicable diseases 
+● Custody issues 
+Tier III – Conditions Indicate a Threatening Situation is in 
+Formative Stage 
+● Sexual harassment 
+● Intimidating behavior 
+
+
+Page 12:
+Superintendent’s Circular FSE-01 
+Page 12 of 42 
+ 
+ 
+● Increasing levels of vandalism 
+● Inappropriate communications 
+● Inappropriate internet use 
+● Rumors 
+● Other incidents that warrant further monitoring 
+CRITERIA FOR DEFINING TIER LEVELS 
+Tier I 
+Tier I situations present imminent danger to students, staff, 
+and property beyond the school’s ability to control and 
+typically involve a 911 emergency response. 
+Tier I situations require an immediate SICM assessment to 
+determine the scope of response required, i.e., some 
+situations requiring 911 response may be contained by the 
+arrival of the appropriate responding 911 unit. For example, a 
+relatively small laceration requiring sutures by EMS would 
+not require the same scope of response as a bomb scare that 
+requires evacuation of the building.   
+The traditional response to emergencies that have school-
+wide impact is often limited to school evacuation. These 
+guidelines, in response to new dimensions in school safety, 
+call for a determination by the SICM to identify if evacuation 
+or safe mode is a component of the response for the situation 
+at hand.  
+In the Emergency Guidelines portion of this document, the 
+terms Tier I – Red (Safe Mode) and Tier I – Green (Evacuation) 
+are introduced to signal the SICM’s assessment to the specific 
+situation at hand.   
+Tier I – (Safe Mode): students and staff staying in place within 
+
+
+Page 13:
+Superintendent’s Circular FSE-01 
+Page 13 of 42 
+ 
+ 
+the building is appropriate.  The safe mode may entail locking 
+in place or relocation to another part of the building. 
+Tier I – (Evacuation): evacuation from the building has been 
+determined as the appropriate response.   
+The use of the terms Tier I – Safe Mode and Tier I – Evacuation 
+is limited to Tier I events.  
+Please note that some Tier I (911) situations will not require 
+use of the Red or Green designations; the laceration versus 
+bomb scare example illustrates the distinctions that must be 
+made regarding the scope of required response. The location 
+of an armed person outside versus inside a building, or a 
+hazardous material release near or in the school, illustrates 
+the need for evaluating whether evacuation or a safe mode 
+process should be implemented. 
+The range of response required must be determined by the 
+SICM.  The SICM determines if additional resources need to 
+be activated.  The SICM also indicates if a Tier I – Evacuation 
+or Tier I – Safe Mode situation exists. 
+ 
+ 
+
+
+Page 14:
+Superintendent’s Circular FSE-01 
+Page 14 of 42 
+ 
+ 
+Tier II 
+Tier II situations present potential danger to students, staff, 
+and property. 
+Tier II situations indicate that a standby and response-
+planning 
+mode 
+is 
+required.  This 
+entails 
+gathering 
+information, developing plans, and notifying appropriate 
+agencies.   
+Tier II major situations could include neighborhood fires that 
+potentially threaten nearby schools, or transportation 
+accidents involving the transport of hazardous materials.  A 
+less dramatic situation would be a power failure that might 
+eventually require early dismissal or relocation of students. 
+As in Tier I, the SICM determines the scope of response 
+required. 
+Tier III 
+Tier III conditions indicate a threatening situation is 
+developing. Collaboration and communication within and 
+beyond the BPS support structure is required to ensure 
+appropriate resources are engaged early to minimize further 
+development of the threat.   
+Preventative measures, including proactive engagement by 
+required support functions or intervention by appropriate 
+agencies during formative phases, will decrease the 
+occurrence of critical incidents within our schools.  
+Tier III situations are occurring daily throughout BPS schools.  
+Tier III conditions encompass a broad spectrum of behavioral 
+issues and involve both individuals and groups.  Many serious 
+
+
+Page 15:
+Superintendent’s Circular FSE-01 
+Page 15 of 42 
+ 
+ 
+safety incidents are preceded by actions that should raise 
+flags.  For example, the appearance of gang related clothing 
+among students indicates the need for conversations with 
+gang intervention personnel.  Suspicion of abuse or neglect, 
+or the observance of depression warning signs in individuals, 
+requires follow up by Student Support staff and possibly the 
+engagement of external support providers.   
+Tier III conditions are likely to be first observed by classroom 
+teachers who become aware of behavior that warrants 
+further monitoring.  
+Observation and communication of Tier III situations, which 
+receive prompt application of Safety Services and Student 
+Support Services prevention practices and our expanded 
+support resources, offer the greatest area for positive impact 
+to our school safety environment.   
+When members of the onsite Incident Control Team are 
+informed or observe a Tier III situation, the SICM will identify 
+and contact the appropriate resources. 
+SECTION II: GUIDELINES 
+Initial School Actions 
+An individual discovering or receiving information about an 
+incident will make a quick assessment and determine if an 
+immediate 911 contact is required.  If the assessment indicates that 
+911 supports are required, that individual should contact 911 and 
+then proceed to notify the Site Incident Control manager (SICM). 
+For all other situations, the SICM will make the initial assessment 
+and then notify the onsite Incident Control Team (ICT) of the 
+situation.  The SICM will also initiate contact with other required 
+
+
+Page 16:
+Superintendent’s Circular FSE-01 
+Page 16 of 42 
+ 
+ 
+support groups as required. While awaiting the arrival of 
+requested support, the SICM and ICT will use those critical minutes 
+to initiate the following eight steps: 
+1. Classify the tier level and determine the appropriate response 
+mode: 
+a. Contact 911 
+b. Stand-by and response planning 
+c. Proactive prevention and monitoring 
+2. Implement evacuation or safe mode decision 
+3. Establish communications 
+4. Identify the danger zone 
+5. Identify and request needed resources 
+6. Open a command post 
+7. Activate staging areas 
+8. Compile occupancy data 
+Further details for Steps 1-8 above are as follows: 
+1. Classify the Tier level.                 
+● Tier I:  
+Any situation that requires a 911- assistance mode 
+also requires that the need for an evacuation or 
+containment response be assessed. 
+● Tier II:  Standby and appropriate response planning mode. 
+● Tier III:  Proactive / prevention and monitoring mode.  
+Examples of specific tier incidents are included in the 
+introduction section. 
+2. Implement Evacuation or Safe Mode Procedures.   
+Evacuation — Based upon assessment and policy, the SICM 
+will determine the need for evacuation.  If evacuation is 
+warranted, it will begin upon the communication of a 
+predetermined signal (fire alarm, intercom, bell, buzzer, 
+
+
+Page 17:
+Superintendent’s Circular FSE-01 
+Page 17 of 42 
+ 
+ 
+other).  All building occupants will respond to this signal and 
+immediately evacuate according to prescribed routes.  
+Notification procedures for Tier I – (Evacuation) should be 
+entered in the computerized School Submittal Section of 
+your (Step I, section d) school safety plan. 
+Each school must have established primary and secondary 
+evacuation routes 
+to 
+be followed 
+during 
+drills 
+and 
+emergencies. Evacuation routes, which are also an element 
+of your Fire Safety Plan, should be inspected prior to 
+utilization and the appropriate one determined during 
+assessment of the situation.  
+Assembly areas must also be predetermined for all school-
+building occupants upon their exiting the school.  This is a 
+critical time during an emergency, and student / staff 
+accountability measures must be accomplished at this 
+point. Evacuation may be to a primary, secondary, or to your 
+off-site (alternate) location(s).  These locations require 
+assessment during plan development, and at the time of the 
+incident, to ensure adequacy.  This information will be 
+entered in the computerized School Submittal Section (Step 
+I, Section B) of your school safety plan. 
+Safe Mode — Safe Mode is an alternative response to 
+evacuation procedures. Notification procedures (Safe Mode) 
+should be entered in the computerized School Submittal 
+Section (Step I, Section D) of your school’s safety plan.  
+Generally, evacuation to the outside has been our immediate 
+response to an emergency signal.  Post incident analyses of 
+serious incidents that have occurred across the country 
+indicate that evacuation is not always the safest response to 
+a situation.  Again, based upon assessment and policy the 
+
+
+Page 18:
+Superintendent’s Circular FSE-01 
+Page 18 of 42 
+ 
+ 
+SICM will determine the need for safe mode.   
+Safe Mode would commence upon a predetermined 
+notification procedure.  Those contained or relocated will be 
+directed to that identified site (a room number, common 
+area, floor, other) and securing the location where you find 
+yourself (and those for whom you are responsible) or securing 
+the place to which you may be relocated in an emergency.  
+This may simply require locking a door.  Again, these are 
+critical 
+times 
+in 
+an 
+emergency 
+and 
+student/staff 
+accountability measures must be accomplished at this point 
+by SICM in accordance with school safety plans.   
+3. Establish communications.  Each school will have in place a 
+means and procedures for communicating in an emergency 
+within their school and to outside public safety agencies.  All 
+components of this process are required as part of your 
+school submission.  This would also identify those assigned 
+telephones or radios and individuals tasked with making 
+necessary notifications.  
+The individual discovering or receiving initial information 
+about an incident is responsible to make a quick assessment 
+and take the following steps: 
+a. Life threatening situation(s) require immediate 911 
+notification.  To notify public safety (police, fire, EMS) call 
+911 via any available telephone.  A Fire Alarm pull station 
+is to be used in the event of a fire related incident with a 
+back-up telephone call to 911 or (617) 343-2880.  
+Remember that activating a pull station will summon 
+emergency 
+assistance 
+but 
+will 
+also 
+initiate 
+an 
+evacuation that may not be appropriate for the 
+situation.  
+
+
+Page 19:
+Superintendent’s Circular FSE-01 
+Page 19 of 42 
+ 
+ 
+b. The discoverer will then inform the SICM or an on-site 
+Incident Control Team member of the situation. 
+c. The SICM or available ICT member will classify the 
+incident Tier level and assume management of the 
+situation. 
+4. Identify the danger zone.  In the assessment phase the best 
+means of separating students/staff from any threat must be 
+determined.  This may be accomplished by building 
+evacuation 
+or 
+implementing 
+containment/lockdown 
+procedures.  A perimeter should be established and secured 
+to keep students/staff away from the danger zone and in a 
+safe area.  Moving people away from the threat, isolating and 
+securing the affected area, and restricting access to non-
+emergency personnel are techniques to separate the threat 
+from students and staff. 
+5. Identify and request needed resources.  As early as possible, 
+the SICM must try to assess what resources are needed to 
+mitigate the crisis and request those resources be made 
+available. Support may come from the Central Incident 
+Management Team or from outside sources.  The extent of 
+required resources will be initially identified during the 
+incident tier classification phase.  Supplementary resources 
+may be requested by follow-on agencies. 
+6. Open command post. The SICM should open a command 
+post as soon as possible in the event of an incident.  It should 
+be in a spot outside the danger zone from which the SICM 
+can effectively manage the incident. The command post 
+must have communications capability in order that the SICM 
+has access to internal team members as well as public safety 
+officials and the Central Incident Management Team.  There 
+should be a level of security for the command post to prevent 
+
+
+Page 20:
+Superintendent’s Circular FSE-01 
+Page 20 of 42 
+ 
+ 
+unnecessary interruptions by people not involved in the 
+response, such as the media, parents, and onlookers.  Safety 
+plans and school records must be available at this location.  
+Locating primary and secondary command posts ahead of 
+time allows you to quickly open a command post whenever 
+it is needed.  You can predetermine sites because generally it 
+is not important that you have a view of the danger zone.  
+Many managers want to manage what they can see, but in a 
+major critical incident the SICM must manage the entire 
+scene, not just the source of the event.  It is suggested that 
+primary and secondary sites be at opposite ends of the 
+building.  Just because you have predetermined sites does 
+not mean you are locked into using them.  As the SICM, you 
+may be dealing directly on location at the source of the issue. 
+7. Activate staging areas.  As with the command post, the 
+staging areas should be predetermined and located outside 
+the danger zone in an area that can be secured.  In the event 
+of a major school incident, separate staging areas should be 
+available for injured and ill persons, parents, and media 
+representatives.  Directing members of these groups will be 
+a function of the Incident Control Team building coordinator.  
+8. Compile occupancy data.  As stated throughout these 
+guidelines, student/staff accountability is essential in an 
+emergency.  The following can be used to compile occupancy 
+data in an emergency:    
+● Daily class/student rosters 
+● Daily staff/ employee/visitor sign-in sheets 
+● Absentee list (students, staff, employee)  
+● Field trip rosters 
+● Current emergency information cards 
+● Locker assignment list 
+
+
+Page 21:
+Superintendent’s Circular FSE-01 
+Page 21 of 42 
+ 
+ 
+● Known restraining orders 
+● Photo identification 
+● Schedules 
+● School bus assignments  
+Any roster should be completed, as early as possible each day, 
+in a form that can be readily taken from the building during an 
+emergency.  Special attention should be given to document 
+names of any student/staff member who is transported from 
+the school or released to a parent.  Particular attention should 
+be paid to ensure the location(s) of any student(s) or staff 
+member that is (are) physically or visually impaired is known. 
+SECTION II: OVERVIEW 
+The above 8 steps are tailored to directly address Tier I situations.  
+However, several of the steps are relevant to Tier II and Tier III 
+incidents when applied to longer timelines.  Tier II, requiring 
+standby and response planning, might utilize steps 3, 4 and 5 
+initially, and depending on the situation may entail use of the 
+remaining steps. 
+Tier III events that occur over longer time periods would still 
+require that communication and identification of appropriate 
+proactive preventative measures be developed. 
+Common sense prevails throughout these guidelines. Those of us 
+in the schools understand that it is better to have a plan and no 
+crisis than to have a crisis and no plan. 
+These basic guidelines are not expected to cover every 
+contingency. However, application of these simple steps will 
+provide a consistent approach to handling any school incident.  As 
+previously stated, the severity and your professional assessment of 
+the incident will determine the scope of response.  
+
+
+Page 22:
+Superintendent’s Circular FSE-01 
+Page 22 of 42 
+ 
+ 
+School administrators and staff routinely implement some form of 
+crisis response management during the discharge of their duties.  
+The intent of the guidelines is to provide a flexible structure that 
+will assist you in managing your response. 
+The following pages contain an Emergency Response Guide to 
+assist your handling of various situations.  It is designed for use as 
+a handout for your Site Incident Control Team.  Included in the 
+Guide is a section designed specifically for classroom teachers.   
+The final section of this booklet is a hardcopy of information that 
+you will be asked to compile.  The actual method of collection will 
+utilize a Google document developed by the Office of Information 
+Services.  The information submitted by your school will be stored 
+in a consolidated database that will be reviewed and updated on 
+an annual basis. 
+SECTION III:  EMERGENCY RESPONSE GUIDE 
+1. ASSESSING THE EMERGENCY RESPONSE 
+The site incident control manager must identify and 
+implement appropriate response. 
+ 
+ 
+ 
+
+
+Page 23:
+Superintendent’s Circular FSE-01 
+Page 23 of 42 
+ 
+ 
+SAFE MODE IF: 
+EVACUATION IF: 
+The situation presents a threat of 
+illness, injury or death to persons 
+moving in, around, or about the campus 
+and it is determined that Safe Mode 
+will provide a greater level of safety for 
+those persons.      
+● Riot 
+● Shooting 
+● Hazardous Material Spill 
+(Outside) 
+● Hostage Situation 
+● Suicide 
+The situation presents a threat of 
+illness, injury or death to persons 
+remaining inside a building and it is 
+determined that evacuation will provide 
+a greater level of safety for those 
+persons. 
+● Fire 
+● Explosion 
+● Hazardous Material Spill (Inside) 
+● Hostage Situation 
+● Bomb Threat 
+● Gas Leak 
+ 
+2. SAFE MODE — PERSONNEL ASSIGNMENTS 
+All students are to remain contained until emergency 
+responders advise otherwise. 
+The following is a list of recommended assignments for 
+faculty/staff members during a crisis requiring containment.  
+* Asterisks denote Site Incident Control Team members. * 
+ 
+* Principal/Assistant Principal (Site Incident Control Manager 
+- SICM): Initiate safe mode. Safely monitor situations with 
+available resources.  Identify and contact appropriate 
+emergency responders and BPS support staff. 
+
+
+Page 24:
+Superintendent’s Circular FSE-01 
+Page 24 of 42 
+ 
+ 
+* Nurse (Risk Analyst): Set up staging area for ill and injured 
+persons and administer initial first aid.  Keep ill people 
+(overcome with stress and excitement) separate from the 
+injured. 
+* Registrar 
+(Safety 
+Coordinator): 
+Gather 
+occupancy 
+information, present occupancy information to Emergency 
+Responders. Use an alternative if school does not have a 
+registrar. 
+* Secretary (Incident Scribe): Continue 911 contact and remain 
+on the telephone.  It is imperative that emergency 
+responders maintain communication with someone inside 
+the school.  Use an alternative if necessary.   
+* Custodian (Building Coordinator): Close and lock all 
+entry/exit points.  Stand by to assist emergency responders 
+with accessibility to mechanical rooms. 
+Classroom Teachers: Contain students. Keep classroom 
+rosters.  Teachers in possession of cell phones should activate 
+their phones.  Teachers should prepare students to follow 
+further instructions. 
+Assistants: Teachers on administrative duty or P&D periods 
+should assist Incident Control Team (ICT) by checking the 
+building for unattended students and moving them to 
+supervised locations.  Assistants should be posted at 
+entry/exit points to ensure that no one leaves the building 
+and that only Emergency Responders enter the building. 
+Volunteers: Report to office and be available to follow 
+instruction. 
+Cafeteria Staff: Close and contain cafeteria and kitchen.  Shut 
+off appliances and remain in kitchen. 
+
+
+Page 25:
+Superintendent’s Circular FSE-01 
+Page 25 of 42 
+ 
+ 
+3. SAFE MODE PROCEDURES 
+Incident Control Team: 
+1. Call 911 – Advise reason for safe mode and stay on the line.  Do 
+not hang up.  911 dispatchers will route the call to the 
+appropriate agencies. 
+2. Communicate to all staff that a Safe Mode situation exists and 
+begin safe mode process. 
+ 
+3. All school personnel will assume their specific assignments 
+listed herein, exercising flexibility where needed to promote 
+the safety of all persons. 
+4. Staging areas should be set up separately for 1.) injured and 
+2.) ill persons. 
+5. During safe mode, no one except emergency responders or 
+their designees will be permitted to enter, exit, or move about 
+the campus. 
+6. As additional emergency responders become available, they 
+will assume some of the posted assignments to relieve school 
+personnel. 
+7. Ending the Safe Mode Status: When it has been determined 
+by the emergency responders and the principal that 
+conditions are safe to resume normal activities, the principal 
+shall make an announcement via the P.A. system or send a 
+messenger to advise each classroom. 
+4. EVACUATION PROCEDURES 
+1. Call 911. 
+a. Advise reasons for evacuation and stay on the line if safe 
+to do so. Do not hang up. 
+b. 911 dispatchers will route the call to the appropriate 
+agencies.  
+2. Start evacuation procedures according to normal fire drill 
+
+
+Page 26:
+Superintendent’s Circular FSE-01 
+Page 26 of 42 
+ 
+ 
+procedures.  Communicate to staff that a TIER I – GREEN 
+situation exists and begin the evacuation process.                                    
+3. If the threat of an explosion is present, or a hazardous 
+material spill has occurred, it may be necessary to move 
+the students farther than a normal evacuation distance. 
+ 
+4. Teachers: Bring roll book. It will be necessary to keep a 
+roster of all students moved. Each teacher will be 
+responsible for his/her class. The ICT safety coordinator will 
+organize any dismissal of students. The release of each 
+student must be documented. 
+5. Staging areas should be setup separately for: 
+a. injured 
+b. ill persons 
+c. parents 
+d. media 
+ 
+6. Students and employees with special needs may require 
+assistance.  Paraprofessionals assigned to students and 
+staff will remain with their assignments throughout the 
+duration of the incident. 
+7. Ending the Evacuation Status: When it has been 
+determined by the emergency responders and the SICM 
+that conditions are safe to resume normal activities, the 
+SICM shall inform staff that it is safe to reenter the building. 
+SECTION IV:  SCHOOL SUBMITTAL SECTION 
+This is a mockup of the information you will submit via the BPS 
+Intranet.  Please note the Intranet version will have a different 
+appearance. 
+STEP I:  
+Please input the following information. 
+▪ School Name: 
+▪ Building Name: 
+ 
+
+
+Page 27:
+Superintendent’s Circular FSE-01 
+Page 27 of 42 
+ 
+ 
+▪ Address: 
+ 
+▪ Principal/Head of School:  
+▪ Telephone Number:   
+▪ Fax Number:  
+ 
+ 
+a. Identify primary and secondary command post locations: 
+ 
+Primary Location 
+Secondary Location 
+Room Name 
+ 
+ 
+Room Number 
+ 
+ 
+Phone Number 
+ 
+ 
+ 
+b. Identify primary and secondary external assembly areas: 
+Primary Location 
+Secondary Location 
+ 
+ 
+ 
+c. Identify primary and secondary alternate school-site 
+locations: 
+Primary 
+Phone 
+Secondary 
+Phone  
+ 
+ 
+ 
+ 
+d. Identify your internal communications method(s) that your 
+site will use to alert staff to the implementation of a Tier I 
+(Evacuation) and a Tier I (Safe Mode) response: 
+
+
+Page 28:
+Superintendent’s Circular FSE-01 
+Page 28 of 42 
+ 
+ 
+Tier I – Evacuation 
+ 
+Tier I – Safe Mode 
+ 
+STEP II:   Identify members of your on-site incident control team. 
+Title 
+Primary 
+Alternate 
+Responsibility 
+Suggested 
+Staff 
+Site Incident 
+Control 
+Manager 
+(SICM) 
+ 
+Enter Private 
+Phone Line,  
+Cell Phone #, 
+Other Phones 
+Name: 
+ 
+ 
+Phone #s: 
+Name: 
+ 
+ 
+Phone #s: 
+Determine Tier level 
+of event and contact 
+resources required to 
+address the situation, 
+overall management 
+of school students 
+and staff, and 
+ensures that 
+superseding agencies 
+directives are 
+followed 
+Principal as 
+Primary; 
+AP or other 
+designee as 
+Alternate 
+Risk Analyst 
+Name: 
+ 
+ 
+Phone #s: 
+Name: 
+ 
+ 
+Phone #s: 
+Assess injuries and 
+medical risk analysis 
+Nurse – Primary; 
+Student Support 
+Coordinator or 
+Language 
+Appropriate 
+Individual – 
+Alternate 
+
+
+Page 29:
+Superintendent’s Circular FSE-01 
+Page 29 of 42 
+ 
+ 
+Title 
+Primary 
+Alternate 
+Responsibility 
+Suggested 
+Staff 
+Safety 
+Coordinator 
+Name: 
+ 
+ 
+Phone #s: 
+Name: 
+ 
+ 
+Phone #s: 
+Gather occupancy 
+information, support 
+efforts to establish 
+control 
+ 
+Building Registrar 
+or equivalent  
+Building 
+Coordinator(s) 
+Name: 
+ 
+ 
+Phone #s: 
+Name: 
+ 
+ 
+Phone #s: 
+Assess building 
+security, meet 
+responding agencies, 
+and direct them to 
+appropriate 
+location(s) 
+School Custodian 
+and School Police 
+Officer (if 
+available) 
+Incident 
+Scribe 
+Name: 
+ 
+ 
+Phone #s: 
+Name: 
+ 
+ 
+Phone #s: 
+Log chronology of 
+incident 
+School Secretary – 
+Primary 
+Transportation 
+Coordinator 
+ 
+STEP III:  
+Building Characteristics 
+Please indicate if your site includes any of the areas listed below 
+
+
+Page 30:
+Superintendent’s Circular FSE-01 
+Page 30 of 42 
+ 
+ 
+in the second column.  The third column should identify the 
+location of the respective areas, as well as any other information 
+requested in the third column. 
+Common Areas 
+Description 
+Yes/No 
+If Yes, List Location 
+Auditorium 
+ 
+ 
+Boiler Room 
+ 
+Also identify if gas or oil is used. 
+Cafeteria 
+ 
+ 
+Computer Lab(s) 
+ 
+ 
+Fire Escapes 
+ 
+ 
+Gymnasium 
+ 
+ 
+Hazardous Materials 
+ 
+ 
+Health Center 
+ 
+ 
+Library 
+ 
+ 
+Loading Dock 
+ 
+ 
+Nurses Office 
+ 
+ 
+Out Buildings 
+ 
+ 
+Playground 
+ 
+ 
+Ramps 
+ 
+ 
+Utility room 
+ 
+ 
+List Others 
+ 
+ 
+ 
+
+
+Page 31:
+Superintendent’s Circular FSE-01 
+Page 31 of 42 
+ 
+ 
+ 
+ 
+
+
+Page 32:
+Superintendent’s Circular FSE-01 
+Page 32 of 42 
+ 
+ 
+Does your building have the following? 
+Description 
+Yes/No 
+If Yes, List Location 
+Attic/Penthouse 
+ 
+Indicate entry points on floor plans 
+Basement or crawlspace access 
+ 
+Indicate entry points on floor plans 
+Community Center 
+ 
+ 
+Elevators 
+ 
+ 
+Fire Safety Systems 
+ 
+ 
+Grounds Maintenance  
+ 
+Identify chemical storage area(s) 
+Kitchen Area 
+ 
+Describe type of kitchen facility:  
+satellite, full service, other 
+Motion Detectors 
+ 
+ 
+Pull Stations 
+ 
+ 
+Security Systems 
+ 
+ 
+Swimming Pool 
+ 
+ 
+Vocational Shop Area 
+Compressed gasses present? (1) 
+Liquid fuels present? (2) 
+(1) List 
+here 
+ 
+ 
+(2) List 
+here 
+ 
+ 
+ 
+If the school has a vocational area, please 
+indicate location on floor plans. 
+ 
+
+
+Page 33:
+Superintendent’s Circular FSE-01 
+Page 33 of 42 
+ 
+ 
+STEP IV:  
+Occupancy Information 
+The purpose of this section is to assist authorities in determining 
+if a building evacuation is complete or to provide information 
+regarding numbers of persons within the building. 
+Description 
+Numbers 
+Additional Information / Comments 
+Total Enrollment 
+ 
+ 
+Total Staff 
+ 
+ 
+For students/staff with disabilities (visual, hearing, mobility, 
+medical, other) please provide all pertinent information required 
+for assistance in an emergency. (Please use the space below.) 
+ 
+PLEASE NOTE: Information in the blocks below should be 
+supplied to authorities when emergency events occur.  Please 
+develop appropriate measures to ensure that accurate and 
+timely headcount information is available. 
+Description 
+Number 
+Visitors 
+ 
+Students off site (field trips, etc.) 
+ 
+Staff off site (training, etc.) 
+ 
+Other (list) 
+ 
+
+
+Page 34:
+Superintendent’s Circular FSE-01 
+Page 34 of 42 
+ 
+ 
+STEP V: 
+ 
+List Communications Equipment 
+Please fill in categories as appropriate. 
+1. Mobile Communication Devices 
+Description 
+Yes / 
+No 
+Quantity 
+Assignee 
+List Appropriate 
+Numbers 
+Status: 
+O=Operational 
+N=Non-operational 
+Nextel 
+Cell Phone 
+2 Way Radio 
+ 
+ 
+ 
+ 
+ 
+AT & T Ericsson 
+Cell Phone 
+ 
+ 
+ 
+ 
+ 
+Other Cell Phones 
+ 
+ 
+ 
+ 
+ 
+Beepers/Pagers 
+ 
+ 
+ 
+ 
+ 
+2. Portable Radios  
+Description 
+Yes / 
+No 
+Quantity 
+Assignee 
+List 
+Appropriate 
+Numbers 
+Status 
+O=Operational 
+N =Non-operational 
+Safety Staff  Two-
+Way Radios 
+ 
+ 
+ 
+ 
+ 
+In-House  
+Two Way Radios 
+ 
+ 
+ 
+ 
+ 
+ 
+3. Stationary Communications 
+
+
+Page 35:
+Superintendent’s Circular FSE-01 
+Page 35 of 42 
+ 
+ 
+Description 
+Yes / 
+No 
+Quantity 
+Assignee 
+List 
+Appropriate 
+Numbers 
+Status 
+O=Operational 
+N =Non-
+operational 
+Intercom System 
+ 
+ 
+ 
+ 
+ 
+PA System 
+ 
+ 
+ 
+ 
+House Phones 
+ 
+ 
+ 
+ 
+ 
+List Others 
+ 
+ 
+ 
+ 
+ 
+ 
+4. Telephone Information 
+Description 
+Assignee 
+Room 
+Number 
+Phone # 
+Main Phone 
+ 
+ 
+ 
+Principal’s Office 
+ 
+ 
+ 
+Guidance Office 
+ 
+ 
+ 
+Custodian’s Office 
+ 
+ 
+ 
+Nurse’s Office 
+ 
+ 
+ 
+ETF’s Office 
+ 
+ 
+ 
+Student Support 
+Coordinator’s Office 
+ 
+ 
+ 
+Swimming Pool 
+ 
+ 
+ 
+Safety Officer/Para 
+ 
+ 
+ 
+
+
+Page 36:
+Superintendent’s Circular FSE-01 
+Page 36 of 42 
+ 
+ 
+Description 
+Assignee 
+Room 
+Number 
+Phone # 
+Pay Phone(s) 
+ 
+ 
+ 
+Phone System - Extension  
+ 
+ 
+Phone System - Extension  
+ 
+ 
+E-Mail Address 
+ 
+ 
+ 
+Fax Machine(s) 
+ 
+ 
+ 
+List All Direct Lines 
+ 
+ 
+ 
+ 
+STEP VI: Floor Plans / Specific Site Information 
+The following areas should be indicated on floor plans.  Facilities 
+Management personnel will complete this section as noted in 
+Superintendent’s Circular FSE-01 School Safety Contingency Plan. 
+● Electrical Control Rooms And Panels 
+● Utility Access/Controls 
+● Classrooms/Labs 
+● Interior Maintenance Areas 
+● Engineering And Boiler Room Areas 
+● Vocational Shop Areas 
+● Swimming Pools 
+● Grounds Maintenance Storage Areas 
+● Kitchens And Food Storage Areas 
+● Fire Standpipes And Sprinkler Connections 
+● Roof Access, Include Skylights And Indicate Whether Or Not 
+Operable 
+● Domestic Water Controls 
+● Basement Or Crawlspace Access 
+
+
+Page 37:
+Superintendent’s Circular FSE-01 
+Page 37 of 42 
+ 
+ 
+● Indicate Which Walls Are Solid Masonry 
+● Indicate Which Walls Are Framed Drywall 
+ 
+For building systems, assess and indicate on the floor plans, the 
+following: 
+● Heating, ventilation, and air conditioning (HVAC) systems  
+● Location and accessibility of air intakes 
+● Filtration media location and accessibility 
+● Shutdown procedures 
+● Plumbing drainage  
+● Fire sprinkler systems – emergency chemical 
+decontamination use  
+● Natural gas – use locations and shutoff(s) 
+● Potable water – access to water supply 
+● Electrical access/shutoff 
+SCHOOL SAFETY / CONTINGENCY PLAN CHECKLIST 
+The following is a list of items which should serve as a guide and 
+checklist as you review and revise your School Safety / 
+Contingency Plan.  These steps are essential to finalize your plan 
+as complete, current, and ready in the event of an emergency.  
+Please insert this checklist in your School Safety Plan book for 
+reference. 
+● Command Post Locations:  Are they located too close 
+together as opposed to being appropriately separate for 
+independent operations? 
+● Assembly Areas:  Are they separate and distinct with your 
+secondary location at a further distance away from the 
+school? 
+● Alternate Sites:  Are they realistic with accommodations to 
+
+
+Page 38:
+Superintendent’s Circular FSE-01 
+Page 38 of 42 
+ 
+ 
+house all students expected to be relocated?  Have prior 
+agreements been made with the Alternate Site host if these 
+locations are not BPS properties?  Will transportation be 
+required to relocate?  Will dismissal of students in 
+accordance with School Department policy be a more 
+practical option on the high school level? 
+● Internal Communications:  Has consideration been given to 
+the use of a system (examples:  public address, intercom, 
+bell, messenger, school phones, portable radios), rather than 
+the fire alarm for evacuation?  Keep in mind that sounding 
+the fire alarm without other instructions will initiate a 
+routine evacuation.  This may take building occupants 
+through or to an unsafe area.  Safe Mode notification would 
+be made via one of the examples given above. 
+● Incident Control Team:  Have responsible members of your 
+school-based staff been identified for all 
+positions/functions?  Have these designated staff members 
+been briefed on their duties? 
+● Facility Components:  There may be a need for a more 
+detailed explanation rather than simply some specifics (e.g., 
+liquid fuel – gasoline for snow blowers is kept in an 
+approved cabinet in the custodian's office, and security 
+system – motion detectors in corridors and stairwells. 
+● Disability Information:  Have all persons in your building 
+needing assistance during an evacuation been identified?  
+Have accommodations been made for safe refuge/ 
+evacuation of students/staff requiring assistance in your 
+school’s evacuation plan?  
+● Communications Equipment and Telephone Information:  
+Have all available means of communication between 
+identified and portable telephones and radios been 
+
+
+Page 39:
+Superintendent’s Circular FSE-01 
+Page 39 of 42 
+ 
+ 
+assigned to staff in accordance with your plan?  Has school 
+email address been included?  Have you included Nextel 
+direct radio numbers? 
+FIRE SAFETY PLAN SECTION 
+● Primary Entry for Fire Department:  Is this the location of 
+your fire alarm control panel (annunciator)?  Is this your 
+street address? 
+● Egress:  Are exit doors unlocked from the inside during 
+operating hours? 
+● Records/Documentation:  Suppression system test 
+certification applies to kitchen hood extinguishing system. 
+● Evacuation Matrix:  Is there an exit identified for each 
+classroom, office, and common area?  Do you have a “hard 
+copy” of your evacuation plan included with your school 
+plan?  Are prescribed evacuation routes posted for all 
+building occupants? 
+● Primary/Secondary Refuge:  These are approved locations 
+inside the building where mobility impaired occupants 
+could safely await evacuation.  Are they identified for each 
+floor? 
+● Training/Orientation:  Are all members of the school staff 
+familiar with details and operation of your school plan?  Has 
+the school plan been practiced?  Is the plan updated as 
+needed?  Have staff signed off on their training?  Is this 
+documentation maintained with your plan? 
+ACKNOWLEDGEMENTS 
+The following is a list of publications and agencies that assisted in 
+the development of the Boston Public Schools Safety 
+
+
+Page 40:
+Superintendent’s Circular FSE-01 
+Page 40 of 42 
+ 
+ 
+Contingency Plans: 
+● Emergency Response Guides, San Antonio Independent 
+School District 
+● Massachusetts Emergency Management Agency (MEMA) 
+● Bristol County Sheriff’s Office, “Safe To Learn” 
+● Federal Emergency Management Agency (FEMA) 
+● Massachusetts Executive Office of Public Safety, School 
+Emergencies; Community Pre-Planning Guide 
+● Laboratory at Brown University, Crisis Planning 
+Management 
+● Massachusetts Office of the Attorney General, Guidelines for 
+a Crisis Management Plan 
+● U.S. Department of Education 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+For more information about this circular, contact: 
+
+
+Page 41:
+Superintendent’s Circular FSE-01 
+Page 41 of 42 
+ 
+ 
+Owner: 
+Director of Emergency Management & Preparedness 
+Department: 
+Office of Emergency Management, Safety Services 
+Mailing Address: 
+205 Townsend Street Boston, MA 02121 
+Phone: 
+ (617) 635-6082 or (857) 701-9404 
+Email: 
+Operations-Department-Heads@bostonpublicschools.org 
+ 
+Mary Skipper, Superintendent 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+See template below to be used in classrooms to post evacuation routes 
+ 
+(Updated 7.16.2024)
+
+
+Page 42:
+Superintendent’s Circular FSE-01 
+Page 42 of 42 
+ 
+ 
+EMERGENCY EVACUATION 
+ 
+ROOM ______  
+LEAVE ROOM, GO ______  
+USE STAIRWAY ______  
+EXIT # ______ 
+
+
