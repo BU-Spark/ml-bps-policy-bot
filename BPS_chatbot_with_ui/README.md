@@ -1,3 +1,26 @@
+# Alternate Chatbot Implementation
+
+This is an alternate implementation of a chatbot UI with different capabilities.
+
+1. User Authentication via Chainlit:<br>
+User Permissions: Access restricted to retrieving policy documents.<br>
+Admin Permissions: Additional capabilities:
+
+   - Retrieve policy documents.
+   - Reindex the vector store.
+   - Upload new document(s) to the vector store.
+   - Remove specific document(s) from the vector store.
+
+3. Chatbot Interface:
+   - Fully functional and user-friendly interface designed in-house.
+
+4. Project Structure Improvements:
+   - Modular and reusable functions for better code maintainability.
+   - Clear and descriptive class naming conventions.
+
+5. ChatGPT API Integration:
+   - Enhanced performance through advanced prompt engineering
+
 ## **Setup and Installation**
 
 1. **Clone the Repository**:
