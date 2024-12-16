@@ -1,0 +1,10 @@
+pypdf
+torch
+sentence-transformers
+datasets
+faiss-cpu
+langchain
+langchain-community
+langchain-huggingface
+chainlit
+openai
